@@ -9,6 +9,6 @@
   "author": "Brian Dukes",
   "license": "MIT",
   "devDependencies": {
-    "light-cycle": "^1.4.3"
+    "vite": "^5.1.5"
   }
 }
