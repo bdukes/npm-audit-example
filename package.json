@@ -1,0 +1,14 @@
+{
+  "name": "npm-audit-example",
+  "version": "1.0.0",
+  "description": "Example of issue with npm audit signatures",
+  "private": true,
+  "scripts": {
+    "test": "npm audit signatures"
+  },
+  "author": "Brian Dukes",
+  "license": "MIT",
+  "devDependencies": {
+    "light-cycle": "^1.4.3"
+  }
+}
